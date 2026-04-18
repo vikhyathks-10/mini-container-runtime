@@ -40,33 +40,46 @@ Check logs:
 dmesg | tail
 
 ##  Experiments
-- Memory Enforcement using memory_hog
-- CPU Scheduling using cpu_hog
+- Memory Enforcement using memory_hog- CPU Scheduling using cpu_hog
 
 ## 💻 Author
 Vikhyath bharadwaj k s and vishal 
+
 ## 📸 Screenshots
 
-### Supervisor Running
+### Screenshot 1
 ![Screenshot](Screenshots/1.jpeg)
 
-### Container Execution
+### Screenshot 2
 ![Screenshot](Screenshots/2.jpeg)
 
-### Process Listing
+### Screenshot 3
 ![Screenshot](Screenshots/3.jpeg)
 
-### Logs Output
+### Screenshot 4
 ![Screenshot](Screenshots/4.jpeg)
 
-### Memory Monitoring
+### Screenshot 5
 ![Screenshot](Screenshots/5.jpeg)
 
-### Kernel Messages
+### Screenshot 6
 ![Screenshot](Screenshots/6.jpeg)
 
-### CPU Scheduling
+### Screenshot 7
 ![Screenshot](Screenshots/7.jpeg)
 
-### Final Output
+### Screenshot 8
 ![Screenshot](Screenshots/8.jpeg)
+
+### Screenshot 9
+![Screenshot](Screenshots/9.jpeg)
+
+### Screenshot 10
+![Screenshot](Screenshots/10.jpeg)
+
+### Screenshot 11
+![Screenshot](Screenshots/11.jpeg)
+
+### Screenshot 12
+![Screenshot](Screenshots/12.jpeg)
+
