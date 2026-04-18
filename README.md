@@ -45,3 +45,28 @@ dmesg | tail
 
 ## 💻 Author
 Vikhyath bharadwaj k s and vishal 
+## 📸 Screenshots
+
+### Supervisor Running
+![Screenshot](Screenshots/1.jpeg)
+
+### Container Execution
+![Screenshot](Screenshots/2.jpeg)
+
+### Process Listing
+![Screenshot](Screenshots/3.jpeg)
+
+### Logs Output
+![Screenshot](Screenshots/4.jpeg)
+
+### Memory Monitoring
+![Screenshot](Screenshots/5.jpeg)
+
+### Kernel Messages
+![Screenshot](Screenshots/6.jpeg)
+
+### CPU Scheduling
+![Screenshot](Screenshots/7.jpeg)
+
+### Final Output
+![Screenshot](Screenshots/8.jpeg)
